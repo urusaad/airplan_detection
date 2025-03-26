@@ -1,5 +1,6 @@
 import streamlit as st
 import cv2
+import torch
 import tempfile
 from ultralytics import YOLO
 import numpy as np
